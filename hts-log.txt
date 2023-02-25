@@ -1,0 +1,475 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Feb 2023 16:13:02 at https://www.classcentral.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +www.classcentral.com +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qir2%e1C2t%Pn%B%s%u%I0R3H0%kf2A250000%c2%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.classcentral.com/ -O1 "C:\Users\angel\Documents\gatote\prueba_definitiva_definitiva" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +www.classcentral.com +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:18:27	Error: 	"Request denied" (999) at link https://www.linkedin.com/company/class-central (from https://www.classcentral.com/)
+16:19:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/maths (from https://www.classcentral.com/)
+16:19:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
+16:19:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
+16:19:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/engineering (from https://www.classcentral.com/)
+16:19:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/science (from https://www.classcentral.com/)
+16:19:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-sciences (from https://www.classcentral.com/)
+16:19:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/art-and-design (from https://www.classcentral.com/)
+16:20:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-and-software-development (from https://www.classcentral.com/)
+16:20:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/personal-development (from https://www.classcentral.com/)
+16:20:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec (from https://www.classcentral.com/)
+16:25:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/information-technology (from https://www.classcentral.com/)
+16:25:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-networking (from https://www.classcentral.com/)
+16:25:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
+16:25:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devops (from https://www.classcentral.com/)
+16:25:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
+16:25:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cryptography (from https://www.classcentral.com/)
+16:25:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/hci (from https://www.classcentral.com/)
+16:25:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/distributed-systems (from https://www.classcentral.com/)
+16:25:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
+16:25:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-graphics (from https://www.classcentral.com/)
+16:25:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nutrition-and-wellness (from https://www.classcentral.com/)
+16:25:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/public-health (from https://www.classcentral.com/)
+16:25:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/health-care (from https://www.classcentral.com/)
+16:26:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/veterinary-science (from https://www.classcentral.com/)
+16:26:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cme (from https://www.classcentral.com/)
+16:26:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/foundations-of-mathematics (from https://www.classcentral.com/)
+16:26:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
+16:26:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/discrete-mathematics (from https://www.classcentral.com/)
+16:26:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/geometry (from https://www.classcentral.com/)
+16:26:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/algebra (from https://www.classcentral.com/)
+16:26:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/number-theory (from https://www.classcentral.com/)
+16:26:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/combinatorics (from https://www.classcentral.com/)
+16:26:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linear-programming (from https://www.classcentral.com/)
+16:26:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/management-and-leadership (from https://www.classcentral.com/)
+16:26:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/finance (from https://www.classcentral.com/)
+16:26:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/marketing (from https://www.classcentral.com/)
+16:26:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/strategic-management (from https://www.classcentral.com/)
+16:27:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-intelligence (from https://www.classcentral.com/)
+16:27:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/accounting (from https://www.classcentral.com/)
+16:27:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/project-management (from https://www.classcentral.com/)
+16:27:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
+16:27:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-software (from https://www.classcentral.com/)
+16:27:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/risk-management (from https://www.classcentral.com/)
+16:27:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/csr (from https://www.classcentral.com/)
+16:27:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nonprofit (from https://www.classcentral.com/)
+16:27:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/innovation (from https://www.classcentral.com/)
+16:27:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/history (from https://www.classcentral.com/)
+16:27:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/literature (from https://www.classcentral.com/)
+16:27:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/language-learning (from https://www.classcentral.com/)
+16:28:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/philosophy (from https://www.classcentral.com/)
+16:28:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/religion (from https://www.classcentral.com/)
+16:28:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/culture (from https://www.classcentral.com/)
+16:28:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sports (from https://www.classcentral.com/)
+16:28:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethics (from https://www.classcentral.com/)
+16:28:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linguistics (from https://www.classcentral.com/)
+16:28:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/library-science (from https://www.classcentral.com/)
+16:28:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reading (from https://www.classcentral.com/)
+16:28:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/electrical-engineering (from https://www.classcentral.com/)
+16:28:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mechanical-engineering (from https://www.classcentral.com/)
+16:28:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/robotics (from https://www.classcentral.com/)
+16:28:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nanotechnology (from https://www.classcentral.com/)
+16:28:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/gis (from https://www.classcentral.com/)
+16:29:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemical-engineering (from https://www.classcentral.com/)
+16:29:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+16:29:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/aerospace-engineering (from https://www.classcentral.com/)
+16:29:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
+16:29:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
+16:29:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/astronomy (from https://www.classcentral.com/)
+16:29:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
+16:29:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/materials-science (from https://www.classcentral.com/)
+16:29:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/applied-science (from https://www.classcentral.com/)
+16:29:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/forensic-science (from https://www.classcentral.com/)
+16:30:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/higher-education (from https://www.classcentral.com/)
+16:30:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/stem (from https://www.classcentral.com/)
+16:30:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
+16:30:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/test-prep (from https://www.classcentral.com/)
+16:30:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
+16:30:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sociology (from https://www.classcentral.com/)
+16:30:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
+16:30:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anthropology (from https://www.classcentral.com/)
+16:30:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+16:30:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+16:30:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-rights (from https://www.classcentral.com/)
+16:30:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
+16:30:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
+16:30:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/music (from https://www.classcentral.com/)
+16:30:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+16:31:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
+16:31:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bioinformatics (from https://www.classcentral.com/)
+16:31:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/big-data (from https://www.classcentral.com/)
+16:31:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+16:31:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+16:31:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mobile-development (from https://www.classcentral.com/)
+16:31:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/web-development (from https://www.classcentral.com/)
+16:31:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/databases (from https://www.classcentral.com/)
+16:31:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+16:31:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/software-development (from https://www.classcentral.com/)
+16:31:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/communication-skills (from https://www.classcentral.com/)
+16:31:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/career-development (from https://www.classcentral.com/)
+16:31:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/self-improvement (from https://www.classcentral.com/)
+16:31:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/resilience (from https://www.classcentral.com/)
+16:31:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cybersecurity (from https://www.classcentral.com/)
+16:32:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethical-hacking (from https://www.classcentral.com/)
+16:32:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-forensics (from https://www.classcentral.com/)
+16:32:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reverse-engineering (from https://www.classcentral.com/)
+16:32:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/malware-analysis (from https://www.classcentral.com/)
+16:32:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devsecops (from https://www.classcentral.com/)
+16:32:25	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/threat-intelligence (from https://www.classcentral.com/)
+16:32:25	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec-certifications (from https://www.classcentral.com/)
+16:32:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blue-team (from https://www.classcentral.com/)
+16:33:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/astrobio-415 (from https://www.classcentral.com/)
+16:33:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/edx-educacion-de-calidad-para-todos-equidad-inclusion-y-atencion-a-la-diversidad-3920 (from https://www.classcentral.com/)
+16:33:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
+16:34:18	Error: 	"Not Found" (404) at link https://www.classcentral.com/images/illustrations/homepage-discover-01.png (from https://www.classcentral.com/)
+16:36:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/udemy (from https://www.classcentral.com/)
+16:36:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
+16:36:19	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/skillshare (from https://www.classcentral.com/)
+16:36:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/microsoft (from https://www.classcentral.com/)
+16:36:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/smithsonian (from https://www.classcentral.com/)
+16:36:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/unccelearn (from https://www.classcentral.com/)
+16:36:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+16:36:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institutions (from https://www.classcentral.com/)
+16:41:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+16:41:31	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+16:41:54	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+16:41:54	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+16:43:42	Error: 	"Request denied" (999) at link https://www.linkedin.com/company/classcentral (from https://www.classcentral.com/)
+16:43:43	Warning: 	Note: due to https://www.youtube.com remote robots.txt rules, links beginning with these path will be forbidden: /comment, /get_video, /get_video_info, /get_midroll_info, /live_chat, /login, /results, /signup, /t/terms, /timedtext_video, /verify_age, /watch_ajax, /watch_fragments_ajax, /watch_popup, /watch_queue_ajax (see in the options to disable this)
+16:43:47	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://i.ytimg.com/generate_204
+16:44:05	Warning: 	Found for https://us-central1-class-central-prod.cloudfunctions.net/robots.txt
+16:44:05	Warning: 	File has moved from https://us-central1-class-central-prod.cloudfunctions.net/robots.txt to https://us-central1-class-central-prod.cloudfunctions.net/_ah/conflogin?continue=https://us-central1-class-central-prod.cloudfunctions.net/robots.txt
+16:44:05	Error: 	"Forbidden" (403) at link https://us-central1-class-central-prod.cloudfunctions.net/extract (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+16:44:05	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+16:44:13	Warning: 	Link https://www.classcentral.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:44:14	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/schema.org/docs/schemaorg.css
+16:44:14	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/schema.org/docs/devnote.css
+16:44:14	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/schema.org/docs/prettify.css
+16:44:14	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/schema.org/docs/sdotermpage.css
+16:44:14	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/schema.org/docs/pretty-markup/style.css
+16:44:14	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/schema.org/docs/clipboard/clippy.svg
+16:44:14	Error: 	"Bad Request" (400) at link abs.twimg.com/ (from https://twitter.com/classcentral)
+16:44:15	Warning: 	Moved Permanently for api.twitter.com/robots.txt
+16:44:15	Warning: 	Redirected link is identical because of 'URL Hack' option: api.twitter.com/robots.txt and https://api.twitter.com/robots.txt
+16:44:15	Warning: 	Warning moved treated for api.twitter.com/robots.txt (real one is https://api.twitter.com/robots.txt)
+16:44:15	Warning: 	Moved Permanently for api.twitter.com/
+16:44:15	Warning: 	Redirected link is identical because of 'URL Hack' option: api.twitter.com/ and https://api.twitter.com/
+16:44:15	Warning: 	File has moved from api.twitter.com/ to https://api.twitter.com/
+16:44:15	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/api.twitter.com/index.html
+16:44:16	Error: 	"Bad Request" (400) at link pbs.twimg.com/ (from https://twitter.com/classcentral)
+16:44:16	Warning: 	Moved Permanently for t.co/robots.txt
+16:44:16	Warning: 	Redirected link is identical because of 'URL Hack' option: t.co/robots.txt and https://t.co/robots.txt
+16:44:16	Warning: 	Warning moved treated for t.co/robots.txt (real one is https://t.co/robots.txt)
+16:44:16	Warning: 	Moved Permanently for t.co/
+16:44:16	Warning: 	Redirected link is identical because of 'URL Hack' option: t.co/ and https://t.co/
+16:44:16	Warning: 	File has moved from t.co/ to https://t.co/
+16:44:16	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/t.co/index.html
+16:44:17	Error: 	"Bad Request" (400) at link video.twimg.com/ (from https://twitter.com/classcentral)
+16:44:17	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/abs.twimg.com/responsive-web/client-web-legacy/icon-svg.168b89da.svg
+16:44:18	Warning: 	Note: due to https://github.githubassets.com remote robots.txt rules, links beginning with these path will be forbidden: /*/pulse, /*/tree/, /gist/, /*/forks, /*/stars, /*/download, /*/revisions, /*/issues/new, /*/issues/search, /*/commits/, /*/commits/*?author, /*/commits/*?path, /*/branches, /*/tags, /*/contributors, /*/comments, /*/stargazers, /*/archive/, /*/blame/, /*/watchers, /*/network, /*/graphs, /*/raw/, /*/compare/, /*/cache/, /.git/, */.git/, /*.git$, /search/advanced, /search, */search, /*q=, /*.atom$, /ekansa/Open-Context-Data, /ekansa/opencontext-*, */tarball/, */zipball/, /*source=*, /*ref_cta=*, /*plan=*, /*return_to=*, /*ref_loc=*, /*setup_organization=*, /*source_repo=*, /*ref_page=*, /*source=*, /*referrer=*, /*report=*, /*author=*, /*since=*, /*until=*, /*commits?author=*, /*report-abuse?report=*, /*tab=*, /account-login, /Explodingstuff/ (see in the options to disable this)
+16:44:18	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/index.html
+16:44:18	Warning: 	Found for https://avatars.githubusercontent.com/
+16:44:18	Warning: 	File has moved from https://avatars.githubusercontent.com/ to https://github.com
+16:44:18	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/avatars.githubusercontent.com/index.html
+16:44:19	Warning: 	Note: due to https://github-cloud.s3.amazonaws.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+16:44:19	Error: 	"Forbidden" (403) at link https://github-cloud.s3.amazonaws.com/ (from https://github.com/classcentral)
+16:44:20	Error: 	"Forbidden" (403) at link https://user-images.githubusercontent.com/ (from https://github.com/classcentral)
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/assets/light-719f1193e0c0.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/assets/dark-0c343b529849.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/assets/primer-1677771a5a91.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/assets/global-423131fb3add.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/assets/github-1bf546ed4011.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/assets/profile-085697a49485.css
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/pinned-octocat.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/github.githubassets.com/favicons/favicon.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/images/promobar/celebrate.svg
+16:44:20	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subjects4658.html
+16:44:20	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/cs4658.html
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/csc2cc.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f7bda83986e6fd97.svg
+16:44:20	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/health4658.html
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/healthe1dd.svg
+16:44:20	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/education4658.html
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/educationd205.svg
+16:44:20	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/data-science4658.html
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/data-sciencebbd2.svg
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/css/frontend.min2072.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min2072.css
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/select2/select2.min080f.css
+16:44:20	Error: 	"Forbidden" (403) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/safari-pinned-tab.svg
+16:44:20	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/webpack/cc-style.1faac0f8c55193cb997a.css
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/cs.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/business.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/humanities.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/data-science.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/personal-development.svg
+16:44:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/art-and-design.svg
+16:44:20	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71214
+16:44:20	Warning: 	File has moved from https://www.classcentral.com/report/?p=71214 to https://www.classcentral.com/report/most-popular-online-courses/
+16:44:20	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index7b9d.html
+16:44:21	Warning: 	Note: due to https://secure.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77094
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=77094 to https://www.classcentral.com/report/best-free-online-courses-2022/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index4928.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73773
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=73773 to https://www.classcentral.com/report/best-free-online-courses-2021/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexacb4.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77063
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=77063 to https://www.classcentral.com/report/most-popular-courses-2022/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index1a28.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73299
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=73299 to https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexc39c.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=66895
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=66895 to https://www.classcentral.com/report/coursera-free-online-courses/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index5f7b.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/semrush-icon-no-bg/
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/semrush-icon-no-bg/ to https://www.classcentral.com/report/wp-content/uploads/2023/01/semrush-icon-no-bg.png
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/semrush-icon-no-bg/index.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74608
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=74608 to https://www.classcentral.com/report/free-certificates/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index4541.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74324
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=74324 to https://www.classcentral.com/report/free-google-certifications/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index5cd6.html
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/mooc-course-report/march-2023.html
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/starting-this-month4658.html
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/new-online-courses/february-20234658.html
+16:44:21	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84744
+16:44:21	Warning: 	File has moved from https://www.classcentral.com/report/?p=84744 to https://www.classcentral.com/report/most-popular-february-2023/
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index0ade.html
+16:44:21	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/ai4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/algorithms-and-data-structures4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/internet-of-things4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/quantum-computing4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/disease-and-disorders4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/nursing4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/anatomy4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/statistics4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/trigonometry4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/precalculus4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/entrepreneurship4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/industry-specific4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/human-resources4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/design-thinking4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/customer-service4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/operations-management4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/grammar-writing4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/esl4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/journalism4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/food4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/civil-engineering4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/manufacturing4658.html
+16:44:22	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F95fa7d7f981d.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=909c2baf269e110e016437c3bb83714d (from https://www.classcentral.com/subject/manufacturing)
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/bim4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/cad4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/chemistry4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/biology4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/earth-science4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/k124658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/teacher-development4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/online-education4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/economics4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/political-science4658.html
+16:44:22	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F3969735f8334.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=583f7c329466ff46a208b8c821c7845e (from https://www.classcentral.com/subject/political-science)
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/sustainability4658.html
+16:44:22	Warning: 	Warning: store image/svg+xml without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/sustainabilityb76f.svg
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/visual-arts4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/data-mining4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/game-development4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/cloud-computing4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/presentation-skills4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/network-security4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/pentesting4658.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84384
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=84384 to https://www.classcentral.com/report/2022-year-in-review/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index4821.html
+16:44:22	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+16:44:22	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/wp-json/wp/v2/users/0 (from https://www.classcentral.com/report/author/dhawal/)
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85398
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85398 to https://www.classcentral.com/report/review-science-of-well-being/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index76cc.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85445
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85445 to https://www.classcentral.com/report/best-resume-writing-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index6d69.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85425
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85425 to https://www.classcentral.com/report/best-ocaml-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexd07d.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85358
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85358 to https://www.classcentral.com/report/review-exploratory-data-analysis-matlab/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexf543.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/subject/it-certifications4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/stanford4658.html
+16:44:22	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fe988eccaf953.png?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=cf6fe3f68c3f3c2784f64dbfe12c4e77 (from https://www.classcentral.com/collection/sustainability-online-courses)
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/mit4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/institution/google4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/institution/amazon4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/category/best-courses/page/2/index.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84167
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=84167 to https://www.classcentral.com/report/online-learning-deals/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index5a97.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/harvard4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/iit-kharagpur4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/rice4658.html
+16:44:22	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F7edef2c71a55.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=2a3d64ece3ab489aa639d53afed6cbaf (from https://www.classcentral.com/university/rice)
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/iitm4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/columbia4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/edinburgh4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/purdue4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/penn4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/duke4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/umich4658.html
+16:44:22	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff9c1fd5b33eb.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=c0c691744e99fa3afd1a47507cae53c4 (from https://www.classcentral.com/university/umich)
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/provider/coursera4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/provider/edx4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/provider/futurelearn4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/provider/linkedin-learning4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/institution/ibm4658.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85377
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85377 to https://www.classcentral.com/report/udemy-layoffs/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index5a49.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71534
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=71534 to https://www.classcentral.com/report/harvard-cs50-guide/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index5ea4.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=69630
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=69630 to https://www.classcentral.com/report/chinese-mooc-platforms/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index7475.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85107
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85107 to https://www.classcentral.com/report/futurelearn-expands-paywall/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index7c68.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73933
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=73933 to https://www.classcentral.com/report/udemy-by-the-numbers/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index197b.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84789
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=84789 to https://www.classcentral.com/report/domestika-layoffs/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index7304.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84718
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=84718 to https://www.classcentral.com/report/thinkific-layoffs/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index9565.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84681
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=84681 to https://www.classcentral.com/report/udemy-new-ceo/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexbca6.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85302
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85302 to https://www.classcentral.com/report/best-davinci-resolve-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index0ddb.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85322
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85322 to https://www.classcentral.com/report/best-free-prolog-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index3be8.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85250
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=85250 to https://www.classcentral.com/report/best-japanese-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index7a82.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73844
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=73844 to https://www.classcentral.com/report/udemy-top-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index4337.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72109
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=72109 to https://www.classcentral.com/report/india-online-degrees/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index702e.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=65630
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=65630 to https://www.classcentral.com/report/mooc-based-masters-degree/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index127b.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70569
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=70569 to https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index3575.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/provider/udacity4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/university/gatech4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/institution/linuxfoundation4658.html
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/institution/salesforce4658.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83775
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=83775 to https://www.classcentral.com/report/most-popular-courses-2023/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index0ebe.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76388
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=76388 to https://www.classcentral.com/report/coursera-top-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexfbe4.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76369
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=76369 to https://www.classcentral.com/report/edx-top-courses/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index4aa4.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83561
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=83561 to https://www.classcentral.com/report/class-central-ddos-attack/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index3476.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70103
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=70103 to https://www.classcentral.com/report/cs50-free-certificate/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index70a0.html
+16:44:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=67197
+16:44:22	Warning: 	File has moved from https://www.classcentral.com/report/?p=67197 to https://www.classcentral.com/report/open-university-insiders-perspective/
+16:44:22	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index6b6e.html
+16:44:23	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72028
+16:44:23	Warning: 	File has moved from https://www.classcentral.com/report/?p=72028 to https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+16:44:23	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/index29c3.html
+16:44:23	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=58243
+16:44:23	Warning: 	File has moved from https://www.classcentral.com/report/?p=58243 to https://www.classcentral.com/report/writing-free-online-courses/
+16:44:23	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.classcentral.com/report/indexbd64.html
+16:44:23	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ar-ar.facebook.com/classcentral.html
+16:44:24	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/bg-bg.facebook.com/classcentral.html
+16:44:25	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/bn-in.facebook.com/classcentral.html
+16:44:25	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/bs-ba.facebook.com/classcentral.html
+16:44:26	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/cs-cz.facebook.com/classcentral.html
+16:44:27	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/da-dk.facebook.com/classcentral.html
+16:44:27	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/de-de.facebook.com/classcentral.html
+16:44:28	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/el-gr.facebook.com/classcentral.html
+16:44:29	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/en-gb.facebook.com/classcentral.html
+16:44:29	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/es-la.facebook.com/classcentral.html
+16:44:30	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/es-es.facebook.com/classcentral.html
+16:44:31	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/et-ee.facebook.com/classcentral.html
+16:44:31	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/fa-ir.facebook.com/classcentral.html
+16:44:32	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/fi-fi.facebook.com/classcentral.html
+16:44:33	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/fr-fr.facebook.com/classcentral.html
+16:44:33	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/he-il.facebook.com/classcentral.html
+16:44:34	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/hi-in.facebook.com/classcentral.html
+16:44:35	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/hr-hr.facebook.com/classcentral.html
+16:44:36	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/hu-hu.facebook.com/classcentral.html
+16:44:36	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/id-id.facebook.com/classcentral.html
+16:44:37	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/it-it.facebook.com/classcentral.html
+16:44:38	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ja-jp.facebook.com/classcentral.html
+16:44:38	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ka-ge.facebook.com/classcentral.html
+16:44:39	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/km-kh.facebook.com/classcentral.html
+16:44:40	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ko-kr.facebook.com/classcentral.html
+16:44:40	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/lt-lt.facebook.com/classcentral.html
+16:44:41	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/lv-lv.facebook.com/classcentral.html
+16:44:42	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/mk-mk.facebook.com/classcentral.html
+16:44:42	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ml-in.facebook.com/classcentral.html
+16:44:43	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ms-my.facebook.com/classcentral.html
+16:44:44	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/nb-no.facebook.com/classcentral.html
+16:44:44	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/ne-np.facebook.com/classcentral.html
+16:44:45	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/nl-nl.facebook.com/classcentral.html
+16:44:46	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/pa-in.facebook.com/classcentral.html
+16:44:46	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/pl-pl.facebook.com/classcentral.html
+16:44:47	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/pt-br.facebook.com/classcentral.html
+16:44:48	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/pt-pt.facebook.com/classcentral.html
+16:44:48	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/m.facebook.com/classcentral.html
+16:44:48	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/y-/l/0,cross/GYa-djPTRgg1f8e.css
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/yF/r/tWgX3jDX7wf1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iJ_24/yO/l/es_LA/vLnCz84WeGpuvunY31jzyGLgvwffuKmeXbp4nhZjJJ5dn4EoIOcI6_QpuLw8IuY4lyYnFuDqkaH9fuXjTfVs91rFy6zYncAJJJArj3SeHISlQCFF4Dpg_O00GnmOVUG
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/y_/r/mLMPiGBChxR1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3i_jU4/ye/l/es_LA/3MWW1PXMsuF1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iXfU4/y0/l/es_LA/yyIVRt_vjBi1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iDwj4/yx/l/es_LA/EIs32DGFg7Tnb_6QBgdC-up7N4CY9T-T6yrbEExKIBQjT6N_izhP6-6ghBOYP72m6jxRhFE3ckBxi2y7u3Ks_tHC9cqvkC-R8PY1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/y4/r/vVVNouYWyOn1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iU1m4/y2/l/es_LA/SxgZdq2TByM1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/ym/r/V-cMTBmQoDM1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iuZF4/yM/l/es_LA/YQ7OlxJOQdyTgristscfxq6Zb-n6m8IFSoYjngyIfPhhE6creUW2vRfDwXbsQYYuxdQf5feF9mWU4GW8ajj7ZqPAMo_jFOt0k6mDCkzjnuGpsp1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iTxJ4/yV/l/es_LA/bhN4kjiVrit1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3i-wm4/yw/l/es_LA/YRgs5sD598Y1f8e.js
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3i4Mb4/yG/l/es_LA/ruzRASVhGWzdTaDg5mbHsy0FZ9rr36Gt73fP3bGgP_RM8ACRO_-XfyyzXuKtQhSsl8X2q8mMGyJ3hkEJ4zngReslioGukpFuHC8Zbp2rMKi84tq8VMk93_RQAHnAIGn
+16:44:48	Warning: 	Warning: store application/x-javascript without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3iflh4/yF/l/es_LA/VABT2KLkIfD1f8e.js
+16:44:49	Error: 	"No Content" (204) at link https://i.ytimg.com/generate_204 (from https://www.youtube.com/classcentral)
+16:44:49	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/fonts.googleapis.com/css2aa78.css
+16:44:49	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.youtube.com/s/desktop/014dbbed/cssbin/www-onepick.css
+16:44:49	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.L_rfe7wtuZc.L.G.O/am=oA/d=0/rs=AGKMywFi5dUicZBAM1kYUM03LfBpxM738g.css
+16:44:49	Warning: 	Warning: store text/html without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ.html
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/www.youtube.com/s/desktop/014dbbed/cssbin/www-main-desktop-watch-page-skeleton.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/yt/l/0,cross/jVSNT0G2aYU1f8e.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/y0/l/0,cross/3Tc81XMaGRS1f8e.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/ye/l/0,cross/E4y9BXj31Qi1f8e.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/yK/l/0,cross/2qTZKrCQnEO1f8e.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/yW/l/0,cross/9MJJTOeUH5T1f8e.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/yr/l/0,cross/wr1zxrk-G501f8e.css
+16:44:50	Warning: 	Warning: store text/css without scan: C:/Users/angel/Documents/gatote/prueba_definitiva_definitiva/static.xx.fbcdn.net/rsrc.php/v3/yg/l/0,cross/mamL3feNxqC1f8e.css
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 minutes 48 seconds : 3030 links scanned, 2777 files written (298404942 bytes overall), 2763 files updated [147480458 bytes received at 77295 bytes/sec], 187165381 bytes transferred using HTTP compression in 519 files, ratio 15%, 6.4 requests per connection
+(146 errors, 318 warnings, 0 messages)

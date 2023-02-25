@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC0VOktSaVdm_YIUa4X5mBTQ"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Class Central</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ"/>
+ <author>
+  <name>Class Central</name>
+  <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+ </author>
+ <published>2014-01-16T05:55:13+00:00</published>
+ <entry>
+  <id>yt:video:Xcq7SRUb_N4</id>
+  <yt:videoId>Xcq7SRUb_N4</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>What's next after the bootcamps? Q&amp;A!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Xcq7SRUb_N4"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-14T06:33:53+00:00</published>
+  <updated>2022-10-15T01:31:24+00:00</updated>
+  <media:group>
+   <media:title>What's next after the bootcamps? Q&amp;A!</media:title>
+   <media:content url="https://www.youtube.com/v/Xcq7SRUb_N4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Xcq7SRUb_N4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Congratulations on making it through the free Web Development and JavaScript bootcamps! &#13;
+&#13;
+Come hang out and ask questions of our team!</media:description>
+   <media:community>
+    <media:starRating count="62" average="5.00" min="1" max="5"/>
+    <media:statistics views="1336"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lddbPUlr1ag</id>
+  <yt:videoId>lddbPUlr1ag</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s Build a Personal Portfolio Webpage Project! [Free Webdev Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lddbPUlr1ag"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-13T05:10:17+00:00</published>
+  <updated>2022-10-13T21:13:14+00:00</updated>
+  <media:group>
+   <media:title>Let’s Build a Personal Portfolio Webpage Project! [Free Webdev Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/lddbPUlr1ag?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lddbPUlr1ag/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We're going to learn web development by building a portfolio webpage project. The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development Bootcamp, hosted by Jessica Rose. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/webdev-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="55" average="5.00" min="1" max="5"/>
+    <media:statistics views="3378"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oNkX-ccolEs</id>
+  <yt:videoId>oNkX-ccolEs</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s learn JS by building a cash register app! [Free JS Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oNkX-ccolEs"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-12T20:58:50+00:00</published>
+  <updated>2022-10-13T11:56:47+00:00</updated>
+  <media:group>
+   <media:title>Let’s learn JS by building a cash register app! [Free JS Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/oNkX-ccolEs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oNkX-ccolEs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this lesson, we're going to learn JavaScript by building a cash register in FreeCodeCamp!&#13;
+&#13;
+The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free JavaScript Bootcamp, hosted by Ramón Huidobro. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/js-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="49" average="5.00" min="1" max="5"/>
+    <media:statistics views="1655"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QK7HT7ug2M0</id>
+  <yt:videoId>QK7HT7ug2M0</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s Learn CSS Animation by Building a Penguin! [Free Webdev Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QK7HT7ug2M0"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-12T05:11:21+00:00</published>
+  <updated>2022-10-13T20:57:31+00:00</updated>
+  <media:group>
+   <media:title>Let’s Learn CSS Animation by Building a Penguin! [Free Webdev Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/QK7HT7ug2M0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QK7HT7ug2M0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We're going to learn web development by building a penguin. The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development Bootcamp, hosted by Jessica Rose. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/webdev-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="443"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6qAHxosI7Ok</id>
+  <yt:videoId>6qAHxosI7Ok</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s learn intermediate algorithms in JS! [Free JS Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6qAHxosI7Ok"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-11T20:39:28+00:00</published>
+  <updated>2022-10-13T14:23:38+00:00</updated>
+  <media:group>
+   <media:title>Let’s learn intermediate algorithms in JS! [Free JS Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/6qAHxosI7Ok?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6qAHxosI7Ok/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this lesson, we're going to learn intermediate algorithms in JavaScript in FreeCodeCamp!&#13;
+&#13;
+The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free JavaScript Bootcamp, hosted by Ramón Huidobro. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/js-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="1417"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tKjPEfhfcxM</id>
+  <yt:videoId>tKjPEfhfcxM</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s Learn CSS Transforms by Building a Ferris Wheel! [Free Webdev Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tKjPEfhfcxM"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-11T05:03:11+00:00</published>
+  <updated>2022-10-11T10:56:25+00:00</updated>
+  <media:group>
+   <media:title>Let’s Learn CSS Transforms by Building a Ferris Wheel! [Free Webdev Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/tKjPEfhfcxM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tKjPEfhfcxM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We're going to learn web development by building a ferris wheel. The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development Bootcamp, hosted by Jessica Rose. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/webdev-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="488"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n5Hrc2tylfU</id>
+  <yt:videoId>n5Hrc2tylfU</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s learn functional programming in JS! [Free JS Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n5Hrc2tylfU"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-10T20:57:33+00:00</published>
+  <updated>2022-10-11T16:26:27+00:00</updated>
+  <media:group>
+   <media:title>Let’s learn functional programming in JS! [Free JS Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/n5Hrc2tylfU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n5Hrc2tylfU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this lesson, we're going to learn JavaScript functional programming in FreeCodeCamp!&#13;
+&#13;
+The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free JavaScript Bootcamp, hosted by Ramón Huidobro. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/js-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="1501"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZgKdcIiaVH4</id>
+  <yt:videoId>ZgKdcIiaVH4</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Everyone matters: an Inclusive Approach to Design, Development and Testing (Parham Doustdar)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZgKdcIiaVH4"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-07T06:11:45+00:00</published>
+  <updated>2022-10-07T23:37:16+00:00</updated>
+  <media:group>
+   <media:title>Everyone matters: an Inclusive Approach to Design, Development and Testing (Parham Doustdar)</media:title>
+   <media:content url="https://www.youtube.com/v/ZgKdcIiaVH4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZgKdcIiaVH4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>You are the next generation of people in tech. You will be going on to work at disruptive businesses. You will be a part of shaping the future of humanity through the products you help build.&#13;
+&#13;
+What kind of future are you aiming for? A more comfortable future? A more fun future? A kinder future?&#13;
+&#13;
+Personally, I'm aiming for a future in which every single person matters.&#13;
+If you'd like to join in creating that future, you'll need to bring along your individuality, your knowledge and your experience.&#13;
+You'll also need to bring a certain mindset that ensures you design, develop and test with everyone in mind.&#13;
+That mindset is what I'll be discussing in my talk.&#13;
+Let's build a future together that embraces everyone, regardless of who they are.&#13;
+&#13;
+Parham Doustdar is the Engineering Manager of the Accessibility team at Booking.com. He was born blind, and went on to become a developer early in life. He relocated to the Netherlands 5 years ago, and he has been part of many projects at Booking, including building a multi-cluster deployment software for Kubernetes.&#13;
+&#13;
+--------------------&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development and JavaScript Bootcamps, hosted by Jessica Rose and Ramón Huidobro. Learn more about the bootcamps and how to enroll here: https://www.classcentral.com/cohorts</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="598"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4mYn5udFZ04</id>
+  <yt:videoId>4mYn5udFZ04</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s Learn HTML and CSS by Building a Product Landing Page! [Free Webdev Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4mYn5udFZ04"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-06T05:06:33+00:00</published>
+  <updated>2022-10-19T08:49:43+00:00</updated>
+  <media:group>
+   <media:title>Let’s Learn HTML and CSS by Building a Product Landing Page! [Free Webdev Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/4mYn5udFZ04?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4mYn5udFZ04/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We're going to learn web development by building a product landing page. The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development Bootcamp, hosted by Jessica Rose. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/webdev-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="1064"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XnygBEapSo0</id>
+  <yt:videoId>XnygBEapSo0</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s learn JS by building a telephone number validator! [Free JS Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XnygBEapSo0"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-05T20:37:38+00:00</published>
+  <updated>2022-10-21T21:55:13+00:00</updated>
+  <media:group>
+   <media:title>Let’s learn JS by building a telephone number validator! [Free JS Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/XnygBEapSo0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XnygBEapSo0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this lesson, we're going to learn JavaScript by building a telephone number validator in FreeCodeCamp!&#13;
+&#13;
+The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free JavaScript Bootcamp, hosted by Ramón Huidobro. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/js-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="28" average="5.00" min="1" max="5"/>
+    <media:statistics views="1543"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OpFvQKmxRP4</id>
+  <yt:videoId>OpFvQKmxRP4</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s Learn CSS Grid by Building a Magazine! [Free Webdev Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OpFvQKmxRP4"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-05T08:00:53+00:00</published>
+  <updated>2022-10-19T08:52:32+00:00</updated>
+  <media:group>
+   <media:title>Let’s Learn CSS Grid by Building a Magazine! [Free Webdev Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/OpFvQKmxRP4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OpFvQKmxRP4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We're going to learn web development by building a magazine. The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development Bootcamp, hosted by Jessica Rose. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/webdev-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="952"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:roRm2WISZ0o</id>
+  <yt:videoId>roRm2WISZ0o</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s learn OOP in JS! [Free JS Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=roRm2WISZ0o"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-04T20:46:46+00:00</published>
+  <updated>2022-10-19T08:51:18+00:00</updated>
+  <media:group>
+   <media:title>Let’s learn OOP in JS! [Free JS Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/roRm2WISZ0o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/roRm2WISZ0o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this lesson, we're going to learn JavaScript object-oriented programming in FreeCodeCamp!&#13;
+&#13;
+The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free JavaScript Bootcamp, hosted by Ramón Huidobro. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/js-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="42" average="5.00" min="1" max="5"/>
+    <media:statistics views="1821"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fI1GYB-Enmo</id>
+  <yt:videoId>fI1GYB-Enmo</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s Learn CSS Variables by Building a City Skyline! [Free Webdev Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fI1GYB-Enmo"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-04T05:10:57+00:00</published>
+  <updated>2022-10-21T21:54:04+00:00</updated>
+  <media:group>
+   <media:title>Let’s Learn CSS Variables by Building a City Skyline! [Free Webdev Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/fI1GYB-Enmo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fI1GYB-Enmo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We're going to learn web development by building a city skyline. The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free Web Development Bootcamp, hosted by Jessica Rose. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/webdev-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="629"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Cx2yS8hP6QI</id>
+  <yt:videoId>Cx2yS8hP6QI</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Let’s learn basic algorithms in JS! [Free JS Bootcamp]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Cx2yS8hP6QI"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-10-03T20:34:31+00:00</published>
+  <updated>2022-10-09T08:06:01+00:00</updated>
+  <media:group>
+   <media:title>Let’s learn basic algorithms in JS! [Free JS Bootcamp]</media:title>
+   <media:content url="https://www.youtube.com/v/Cx2yS8hP6QI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Cx2yS8hP6QI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this lesson, we're going to learn JavaScript basic algorithms in FreeCodeCamp!&#13;
+&#13;
+The goal is to get you started and have you finish on your own, but you can always get help in the forums if you get stuck.&#13;
+&#13;
+This live stream is part of Class Central's Free JavaScript Bootcamp, hosted by Ramón Huidobro. Learn more about the bootcamp and how to enroll here:&#13;
+https://www.classcentral.com/cohorts/js-bootcamp-fall-2022</media:description>
+   <media:community>
+    <media:starRating count="56" average="5.00" min="1" max="5"/>
+    <media:statistics views="2877"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HMxb8CU31Yg</id>
+  <yt:videoId>HMxb8CU31Yg</yt:videoId>
+  <yt:channelId>UC0VOktSaVdm_YIUa4X5mBTQ</yt:channelId>
+  <title>Devtools are your best friends for web development (Miguel Useche)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HMxb8CU31Yg"/>
+  <author>
+   <name>Class Central</name>
+   <uri>https://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</uri>
+  </author>
+  <published>2022-09-30T06:06:08+00:00</published>
+  <updated>2022-10-05T21:03:40+00:00</updated>
+  <media:group>
+   <media:title>Devtools are your best friends for web development (Miguel Useche)</media:title>
+   <media:content url="https://www.youtube.com/v/HMxb8CU31Yg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HMxb8CU31Yg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Browsers include great DevTools for Web Development and they are our best friends. They help us to improve our work by allowing us to see our development results on realtime. This talk will give you a brief introduction on how you can use your browser to increase your productivity by reducing the time to check changes on your browser. Discover how you can write, modify or add HTML/CSS code in a page and see the changes right away without reloading. Improving your coding skills learning how you can avoid some CSS errors by following what the browser suggest you. Create website for everyone by checking if your website complies with accessibility rules and making sure that it works on slow connections.&#13;
+&#13;
+This optional guest session will be led by Miguel Useche. Miguel is a freelance web developer and open source advocate from Venezuela, who loves to help many open source communities (mainly on Mozilla and WordPress). When he's not skateboarding on his free time, he loves to contribute to these communities with code, translations, articles, giving talks, organising events, etc. He's the founder of Venezuela's first Wordpress Meetup, Mozilla Venezuela and he was a Operating Systems and Programming professor at Universidad del Táchira. Miguel has been involved with Mozilla since 2010, he was part of the Mozilla TechSpeaker program but he still loves to evangelize about the latest and newest open web technologies to build a better web.</media:description>
+   <media:community>
+    <media:starRating count="52" average="5.00" min="1" max="5"/>
+    <media:statistics views="1580"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
