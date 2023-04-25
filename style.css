@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-.navbar {
+header {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -36,4 +36,18 @@ main {
 }
 body {
   font-family: "Roboto", sans-serif;
+}
+.image-profile {
+  width: 100%;
+}
+.personal-data {
+  margin: 10px;
+}
+.navbar {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+.header-image {
+  width: 100%;
 }
