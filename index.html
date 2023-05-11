@@ -11,71 +11,47 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
       rel="stylesheet"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <title>Document</title>
   </head>
   <body>
     <body>
-      <header>
-        <img
-          class="image-profile"
-          src="static/images/profile.png"
-          alt="perfil"
-        />
-        <div class="personal-data">
-          <p>
-            <b>Nombre:</b>: Juan David Salamanca <br />
-            <b>Pregrado</b>: Físico <br />
-            <b>Cargo actual</b>: Científico de datos <br />
-            <b>Tiempo de experiencia</b>: 1 Año <br />
-            <b>Edad</b>: 23 años<br />
-          </p>
+      <nav>
+        <div id="title">My portfolio</div>
+        <div id="navegation">
+          <div class="navegation-item">About me</div>
+          <div class="navegation-item">My experience</div>
+          <div class="navegation-item">My projects</div>
+          <div class="navegation-item">Contact</div>
         </div>
-        <nav>
-          <ul class="navbar">
-            <li><a href="#inicio">Inicio</a></li>
-            <li><a href="#sobre_mi">Sobre mi</a></li>
-            <li><a href="#portafolio">Portafolio</a></li>
-            <li><a href="#contacto">Contacto</a></li>
-          </ul>
-        </nav>
-      </header>
+      </nav>
+
       <main>
-        <img
-          class="header-image"
-          src="static/images/brain.png"
-          alt="header-image"
-        />
-        <h1 id="inicio">Bienvenidos a mi Portafolio</h1>
-        <p>Aquí podrás encontrar información sobre mi y mi trabajo</p>
-
-        <h2 id="sobre_mi">Sobre mí</h2>
-        <p>
-          Desarrollador Web Full-Stack con experiencia en diseño de bases de
-          datos, en frameworks de desarollo Backend, diseño e implementación de
-          RESTful API's, inteligencia artificial, automatización de tareas y
-          metodología SCRUM
-        </p>
-        <ol>
-          <li>
-            <b>Aleph</b>: Consultora de inteligencia artificial. (Feb 2022 - May
-            2022)
-          </li>
-          <li>
-            <b>Constructora Bolivar</b>: Empresa . (May 2022 - Actualidad)
-          </li>
-        </ol>
-
-        <h2 id="portafolio">Portafolio</h2>
-        <ul>
-          <li>
-            Full Stack Website de un servicio de inteligencia artificial usando
-            Flask, Html, Css, Javascript, Python, Mysql y AWS.
-          </li>
-          <li>
-            RestFul APIs para poner modelos de inteligencia artificial en
-            producción usando Flask, FastAPI y Django.
-          </li>
-        </ul>
+        <section id="about-me">
+          
+          <div class="section-description">
+            <h1>
+              About Me
+            </h1>
+            <p>
+            I am a Physicist with additional studies in backend web development with Python, Django, Flask, FastAPI, troubleshooting (algorithms) and SQL; I master frontend development technologies such as Html, CSS and JavaScript. I also use other technologies such as Linux, Git and AWS, which allow me to easily adapt to any development team. I am motivated by challenges that allow me to develop and grow professionally, while allowing me to present robust and innovative solutions that contribute to business objectives.
+            </p>
+          </div>
+          <div class="section-image">
+            <img src="static/images/slytherin/about-me-logo.svg" alt="profile">
+          </div>
+        </section>
+        <section id="my-experience">
+          MY EXPERIENCIE
+        </section>
+        <section id="my-projects">
+MY PROJECTS
+        </section>
+        <section id="contact">
+Contact
+        </section>
       </main>
       <footer>
         <p class="contact-footer">

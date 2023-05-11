@@ -1,64 +1,71 @@
+:root {
+  --background-body-color: #0b1107;
+  --background-navbar-color: #caebd6;
+  --text-navbar-color: #1a472a;
+  --text-titles-color: #d6972d;
+  --normal-text-font-size: 20px;
+  --normal-text-font-family: "Inter";
+}
+
 body {
-  margin: 0;
-}
-
-header {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
-}
-
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-li a.active {
-  background-color: #04aa6d;
+  background-color: var(--background-body-color);
+  margin: 0px;
   color: white;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px 10px 20px;
+  background-color: var(--background-navbar-color);
+  color: var(--text-navbar-color);
+  font-size: var(--normal-text-font-size);
+  font-family: var(--normal-text-font-family), sans-serif;
+}
 
-li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+footer img {
+  width: 30px;
+}
+#navegation {
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+}
+.navegation-item {
+  padding-left: 30px;
+}
+#title {
+  font-weight: 800;
+  font-style: normal;
 }
 main {
-  margin-left: 25%;
-  padding: 1px 16px;
-  height: 1000px;
+  margin-top: 40px;
+  width: 80vw;
+  margin: auto;
+  padding-top: 30px;
 }
-body {
-  font-family: "Roboto", sans-serif;
+
+#about-me {
 }
-.image-profile {
+.section-image {
+  width: 38%;
+  display: flex;
+  align-items: center;
+}
+.section-description {
+  width: 58%;
+}
+.section-image img {
   width: 100%;
 }
-.personal-data {
-  margin: 10px;
+h1 {
+  color: var(--text-titles-color);
+  font-family: "Outfit", sans-serif;
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 15px;
 }
-.navbar {
-  list-style-type: none;
-  margin-left: 0;
-  padding-left: 0;
-}
-.header-image {
-  width: 100%;
-}
-footer {
-  margin-left: 25%;
-  padding: 1px 16px;
-  text-align: center;
-}
-.social-network {
-  width: 50px;
-}
-.contact-footer {
-  margin-bottom: 30px;
+section {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
 }
