@@ -2,6 +2,7 @@
   --background-body-color: #0b1107;
   --background-navbar-color: #caebd6;
   --text-navbar-color: #1a472a;
+  --text-titles-color: #d6972d;
   --normal-text-font-size: 20px;
   --normal-text-font-family: "Inter";
 }
@@ -9,6 +10,7 @@
 body {
   background-color: var(--background-body-color);
   margin: 0px;
+  color: white;
 }
 nav {
   display: flex;
@@ -26,6 +28,7 @@ footer img {
 #navegation {
   display: flex;
   font-weight: 700;
+  align-items: center;
 }
 .navegation-item {
   padding-left: 30px;
@@ -33,4 +36,36 @@ footer img {
 #title {
   font-weight: 800;
   font-style: normal;
+}
+main {
+  margin-top: 40px;
+  width: 80vw;
+  margin: auto;
+  padding-top: 30px;
+}
+
+#about-me {
+}
+.section-image {
+  width: 38%;
+  display: flex;
+  align-items: center;
+}
+.section-description {
+  width: 58%;
+}
+.section-image img {
+  width: 100%;
+}
+h1 {
+  color: var(--text-titles-color);
+  font-family: "Outfit", sans-serif;
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+section {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
 }
