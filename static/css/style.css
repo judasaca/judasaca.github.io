@@ -15,7 +15,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20vw 10px 20vw;
   background-color: var(--background-navbar-color);
   color: var(--text-navbar-color);
   font-size: var(--normal-text-font-size);
@@ -39,7 +39,7 @@ footer img {
 }
 main {
   margin-top: 40px;
-  width: 80vw;
+  width: 60vw;
   margin: auto;
   padding-top: 30px;
 }
@@ -77,8 +77,8 @@ section {
 
 .timeline {
   position: relative;
-  max-width: 1200px;
-  margin: 100px auto;
+  width: 100%;
+  margin: 100px 0px 100px 0px;
   color: black;
 }
 .container {
@@ -124,9 +124,11 @@ section {
 }
 .left-container {
   left: 0;
+  padding: 10px 50px 10px 0px;
 }
 .right-container {
   left: 50%;
+  padding: 10px 0px 10px 50px;
 }
 .container img {
   position: absolute;
