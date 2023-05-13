@@ -1,6 +1,8 @@
 :root {
   --background-body-color: #0b1107;
   --background-navbar-color: #caebd6;
+  --background-experience-text-box-color: #1a472a;
+  --timeline-color: #2a623d;
   --text-navbar-color: #1a472a;
   --text-titles-color: #d6972d;
   --normal-text-font-size: 20px;
@@ -44,8 +46,6 @@ main {
   padding-top: 30px;
 }
 
-#about-me {
-}
 .section-image {
   width: 38%;
   display: flex;
@@ -55,7 +55,9 @@ main {
   width: 58%;
 }
 .section-image img {
+  object-fit: fill;
   width: 100%;
+  padding: 50px;
 }
 h1 {
   color: var(--text-titles-color);
@@ -63,6 +65,12 @@ h1 {
   font-size: 70px;
   margin-top: 0px;
   margin-bottom: 15px;
+}
+h2 {
+  color: var(--text-titles-color);
+  font-family: "Outfit", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
 }
 .timeline * {
   box-sizing: border-box;
@@ -117,10 +125,12 @@ section {
 
 .text-box {
   padding: 20px 30px;
-  background: #fff;
+  background: var(--background-experience-text-box-color);
   position: relative;
   border-radius: 6px;
   font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: white;
 }
 .left-container {
   left: 0;
@@ -130,18 +140,23 @@ section {
   left: 50%;
   padding: 10px 0px 10px 50px;
 }
-.container img {
+.experience-image-container {
   position: absolute;
   width: 55px;
   height: 55px;
-  border-radius: 50%;
   right: -30px;
   top: 26px;
   z-index: 10;
   border: 5px solid white;
   background: white;
+  padding: 5px;
+  border-radius: 100%;
 }
-.right-container img {
+.experience-image-container img {
+  width: 100%;
+}
+
+.right-container .experience-image-container {
   left: -30px;
 }
 
@@ -150,12 +165,13 @@ section {
   position: absolute;
   width: 6px;
   height: 100%;
-  background-color: #fff;
+  background-color: var(--timeline-color);
   top: 0;
   left: 50%;
   margin-left: -3px;
   z-index: -1;
   animation: moveline 3s linear forwards;
+  border-radius: 10px;
 }
 @keyframes moveline {
   0% {
@@ -172,6 +188,7 @@ section {
   display: inline-block;
   margin-bottom: 15px;
 }
+
 .left-container-arrow {
   height: 0;
   width: 0;
@@ -180,7 +197,7 @@ section {
   z-index: 1;
   border-top: 15px solid transparent;
   border-bottom: 15px solid transparent;
-  border-left: 15px solid white;
+  border-left: 15px solid var(--background-experience-text-box-color);
   right: -15px;
 }
 .right-container-arrow {
@@ -191,7 +208,7 @@ section {
   z-index: 1;
   border-top: 15px solid transparent;
   border-bottom: 15px solid transparent;
-  border-right: 15px solid white;
+  border-right: 15px solid var(--background-experience-text-box-color);
   left: -15px;
 }
 
@@ -226,4 +243,14 @@ section {
     border-left: 0;
     left: -15px;
   }
+}
+
+.timeline li {
+  margin: 10px 0;
+}
+.experience-name-job::before {
+  content: "~ ";
+  font-size: 20px;
+  color: var(--text-titles-color);
+  font-weight: 700;
 }
