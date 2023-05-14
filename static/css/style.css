@@ -254,3 +254,34 @@ section {
   color: var(--text-titles-color);
   font-weight: 700;
 }
+#my-history {
+  display: block;
+}
+#my-history h1 {
+  text-align: center;
+}
+#history-buttons {
+  background: #caebd6;
+  display: inline;
+  padding: 10px 15px 10px 15px;
+  border-radius: 15px;
+}
+.buttons {
+  margin: 0px 10px;
+  border: none;
+  background: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-navbar-color);
+}
+#buttons-container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.selected {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 3px solid var(--text-titles-color);
+}
