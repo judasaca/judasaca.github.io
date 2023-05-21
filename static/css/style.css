@@ -289,3 +289,6 @@ section {
   border-left: none;
   border-bottom: 3px solid var(--text-titles-color);
 }
+.invisible {
+  display: none;
+}
