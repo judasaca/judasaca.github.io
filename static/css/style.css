@@ -23,6 +23,10 @@ nav {
   color: var(--text-navbar-color);
   font-size: var(--normal-text-font-size);
   font-family: var(--normal-text-font-family), sans-serif;
+  position: fixed;
+  width: 100vw;
+  box-sizing: border-box;
+  z-index: 10000;
 }
 
 footer img {
@@ -41,10 +45,9 @@ footer img {
   font-style: normal;
 }
 main {
-  margin-top: 40px;
   width: 60vw;
   margin: auto;
-  padding-top: 30px;
+  padding-top: 70px;
 }
 
 .section-image {
