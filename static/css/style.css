@@ -300,3 +300,13 @@ section {
 .course-link {
   color: white;
 }
+
+#education-timeline::after {
+  /*
+Each second correspond to each section in the timeline
+*/
+  animation: moveline 4s linear forwards;
+}
+a {
+  color: white;
+}
