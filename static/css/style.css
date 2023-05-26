@@ -158,6 +158,9 @@ section {
   background: white;
   padding: 5px;
   border-radius: 100%;
+  font-display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .experience-image-container img {
   width: 100%;
