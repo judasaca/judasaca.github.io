@@ -313,3 +313,93 @@ Each second correspond to each section in the timeline
 a {
   color: white;
 }
+
+#projects-bar {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+.project-card {
+  width: 368px;
+  background: var(--text-titles-color);
+  padding: 15px;
+  border-radius: 15px;
+}
+.project-card h3 {
+  font-family: "Outfit", sans-serif;
+  color: #1a472a;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+.card-title-container {
+  display: block;
+  position: relative;
+}
+.card-title-container::after {
+  display: block;
+  content: "";
+  height: 2px;
+  background-color: black;
+  width: 80%;
+  position: absolute;
+  z-index: 30000000;
+  top: 120%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#my-projects {
+  display: block;
+}
+.text-card-container {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+}
+.complexity {
+  background-color: #163b23;
+  padding: 20px 5px;
+  margin-bottom: 10px;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+.complexity::after {
+  content: "";
+  width: 15px;
+  height: 100%;
+  background: #163b23;
+  display: flex;
+  position: absolute;
+  left: 100%;
+  top: 0%;
+}
+.complexity::before {
+  content: "";
+  width: 15px;
+  height: 100%;
+  background: #163b23;
+  display: flex;
+  position: absolute;
+  left: -15px;
+  top: 0%;
+}
+.star {
+  width: 20px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+}
+.star img {
+  width: 100%;
+}
+.complexity-content {
+  display: flex;
+}
+.star-container {
+  display: flex;
+  margin-left: 10px;
+}
