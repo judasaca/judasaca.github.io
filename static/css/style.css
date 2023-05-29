@@ -325,6 +325,10 @@ a {
   background: var(--text-titles-color);
   padding: 15px;
   border-radius: 15px;
+  transition: box-shadow 0.1s, transform;
+}
+.project-card:hover {
+  box-shadow: 0px 0px 50px rgb(255, 255, 255);
 }
 .project-card h3 {
   font-family: "Outfit", sans-serif;
