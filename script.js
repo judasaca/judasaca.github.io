@@ -27,7 +27,8 @@ const height = card.clientHeight;
 const width = card.clientWidth;
 
 card.addEventListener("mousemove", (evt) => {
-  const { layerX, layerY } = evt;
+  let layerX, layerY;
+  ({ layerX, layerY } = evt);
   const yRotation = ((layerX - width / 2) / width) * 20;
   const xRotation = ((layerY - height / 2) / height) * 20;
   const string = `
@@ -38,12 +39,14 @@ card.addEventListener("mousemove", (evt) => {
   card.style.transform = string;
 });
 
-card.addEventListener("mouseout", () => {
+card.addEventListener("mouseout", (event) => {
   card.style.transform = `
     perspective(500px)
     scale(1)
     rotateX(0)
     rotateY(0)
   `;
-  console.log("salgo");
+  if (event.target.className == "complexity") {
+    console.log("hopla");
+  }
 });

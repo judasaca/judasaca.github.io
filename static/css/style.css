@@ -369,11 +369,11 @@ a {
   padding: 20px 5px;
   margin-bottom: 10px;
   margin-top: 40px;
-  position: relative;
+  /* position: relative; */
   font-family: "Roboto", sans-serif;
   font-weight: 600;
 }
-.complexity::after {
+/* .complexity::after {
   content: "";
   width: 15px;
   height: 100%;
@@ -392,7 +392,7 @@ a {
   position: absolute;
   left: -15px;
   top: 0%;
-}
+} */
 .star {
   width: 20px;
   height: auto;
@@ -422,4 +422,19 @@ a {
   width: auto;
   object-fit: contain;
   padding: 0px 10px;
+}
+.big {
+  height: 50px;
+  background: blue;
+  width: 100%;
+}
+.medium {
+  width: 50%;
+  background: red;
+  height: 100%;
+}
+.small {
+  width: 50%;
+  background: green;
+  height: 100%;
 }
