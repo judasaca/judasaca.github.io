@@ -308,7 +308,7 @@ section {
   /*
 Each second correspond to each section in the timeline
 */
-  animation: moveline 4s linear forwards;
+  animation: moveline 5s linear forwards;
 }
 a {
   color: white;
