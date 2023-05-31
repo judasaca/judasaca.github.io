@@ -33,7 +33,7 @@ card.addEventListener("mousemove", (evt) => {
   const xRotation = ((layerY - height / 2) / height) * 20;
   const string = `
     perspective(500px)
-    scale(1.1)
+    scale(1.01)
     rotateX(${xRotation}deg)
     rotateY(${yRotation}deg)`;
   card.style.transform = string;
@@ -46,7 +46,4 @@ card.addEventListener("mouseout", (event) => {
     rotateX(0)
     rotateY(0)
   `;
-  if (event.target.className == "complexity") {
-    console.log("hopla");
-  }
 });
