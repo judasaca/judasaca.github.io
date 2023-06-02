@@ -51,12 +51,24 @@ main {
 }
 
 .section-image {
-  width: 38%;
   display: flex;
   align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  background: radial-gradient(
+    white,
+    var(--background-experience-text-box-color)
+  );
+  width: 10px;
+  height: 10px;
 }
+.section-image img {
+  object-fit: fill;
+  border-radius: 100%;
+}
+
 #about-me-image {
-  padding: 50px 0px 50px 50px;
+  padding: 0px;
 }
 .section-description {
   width: 58%;
@@ -85,7 +97,7 @@ h2 {
   margin: 0;
 }
 section {
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   display: flex;
   justify-content: space-between;
 }
@@ -451,4 +463,12 @@ a {
   background: #163b23;
   margin: 3px auto;
   border-radius: 10px;
+}
+#list-aboutme {
+  padding: 0px 0px 0px 0px;
+}
+
+#list-aboutme li {
+  list-style-type: none;
+  padding: 5px 0px;
 }

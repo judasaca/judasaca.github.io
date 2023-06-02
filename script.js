@@ -47,3 +47,9 @@ card.addEventListener("mouseout", (event) => {
     rotateY(0)
   `;
 });
+let aboutmeDescription = document.getElementById("about-me");
+let heightAboutMe = aboutmeDescription.clientHeight;
+let aboutMeImageContainer = document.getElementById("about-me-image-container");
+console.log(heightAboutMe);
+aboutMeImageContainer.style.width = "" + heightAboutMe + "px";
+aboutMeImageContainer.style.height = "" + heightAboutMe + "px";
