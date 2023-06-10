@@ -22,31 +22,35 @@ function switchToExperience() {
 educationButton.addEventListener("click", switchToEducation);
 experienceButton.addEventListener("click", switchToExperience);
 
-const card = document.getElementById("card1");
-const height = card.clientHeight;
-const width = card.clientWidth;
+let cards = document.getElementsByClassName("project-card");
+function add_hover_animation_on_card(card) {
+  let height = card.clientHeight;
+  let width = card.clientWidth;
+  card.addEventListener("mousemove", (evt) => {
+    let layerX, layerY;
+    ({ layerX, layerY } = evt);
+    const yRotation = ((layerX - width / 2) / width) * 20;
+    const xRotation = ((layerY - height / 2) / height) * 20;
+    const string = `
+      perspective(500px)
+      scale(1.01)
+      rotateX(${xRotation}deg)
+      rotateY(${yRotation}deg)`;
+    card.style.transform = string;
+  });
 
-card.addEventListener("mousemove", (evt) => {
-  let layerX, layerY;
-  ({ layerX, layerY } = evt);
-  const yRotation = ((layerX - width / 2) / width) * 20;
-  const xRotation = ((layerY - height / 2) / height) * 20;
-  const string = `
-    perspective(500px)
-    scale(1.01)
-    rotateX(${xRotation}deg)
-    rotateY(${yRotation}deg)`;
-  card.style.transform = string;
-});
+  card.addEventListener("mouseout", (event) => {
+    card.style.transform = `
+      perspective(500px)
+      scale(1)
+      rotateX(0)
+      rotateY(0)
+    `;
+  });
+}
+console.log(cards);
+Array.from(cards).forEach(add_hover_animation_on_card);
 
-card.addEventListener("mouseout", (event) => {
-  card.style.transform = `
-    perspective(500px)
-    scale(1)
-    rotateX(0)
-    rotateY(0)
-  `;
-});
 let aboutmeDescription = document.getElementById("about-me");
 let heightAboutMe = aboutmeDescription.clientHeight;
 let aboutMeImageContainer = document.getElementById("about-me-image-container");
