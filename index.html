@@ -374,12 +374,50 @@
           <h1>My projects</h1>
 
           <div id="carouselExample" class="carousel slide">
+            <div class="carousel-indicators">
+              <button
+                type="button"
+                data-bs-target="#carouselExample"
+                data-bs-slide-to="0"
+                class="active"
+                aria-current="true"
+                aria-label="Slide 1"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExample"
+                data-bs-slide-to="1"
+                aria-label="Slide 2"
+              ></button>
+              <!-- <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 3"></button> -->
+            </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <div class="project-card d-block w-100">
                   <div class="card-title-container">
                     <h3>RESTful API's</h3>
-                    <div class="horizontal-line"></div>
+                    <!-- <div class="horizontal-line"></div> -->
+                  </div>
+                  <div class="complexity">
+                    <div class="complexity-content">
+                      <div class="star-container">
+                        <div class="star">
+                          <img src="static/images/star.png" alt="" />
+                        </div>
+                        <div class="star">
+                          <img src="static/images/star.png" alt="" />
+                        </div>
+                        <div class="star">
+                          <img src="static/images/star.png" alt="" />
+                        </div>
+                        <div class="star">
+                          <img src="static/images/star.png" alt="" />
+                        </div>
+                        <div class="star">
+                          <img src="static/images/star.png" alt="" />
+                        </div>
+                      </div>
+                    </div>
                   </div>
 
                   <div class="text-card-container">
@@ -408,10 +446,15 @@
                       <img src="/static/images/tech_icons/git.png" alt="" />
                     </div>
                   </div>
-
-                  <div class="complexity">
-                    <div class="complexity-content">
-                      Complexity:
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="project-card d-block w-100">
+                  <div class="card-title-container">
+                    <h3>Preguntólogo</h3>
+                  </div>
+                  <div class="complexity" id="c1">
+                    <div class="complexity-content" id="c2">
                       <div class="star-container">
                         <div class="star">
                           <img src="static/images/star.png" alt="" />
@@ -430,14 +473,6 @@
                         </div>
                       </div>
                     </div>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="project-card d-block w-100">
-                  <div class="card-title-container">
-                    <h3>Preguntólogo</h3>
-                    <div class="horizontal-line"></div>
                   </div>
 
                   <div class="text-card-container">
@@ -464,29 +499,6 @@
                       <img src="/static/images/tech_icons/aws.png" alt="" />
                       <img src="/static/images/tech_icons/wompi.png" alt="" />
                       <img src="/static/images/tech_icons/git.png" alt="" />
-                    </div>
-                  </div>
-
-                  <div class="complexity" id="c1">
-                    <div class="complexity-content" id="c2">
-                      Complexity:
-                      <div class="star-container">
-                        <div class="star">
-                          <img src="static/images/star.png" alt="" />
-                        </div>
-                        <div class="star">
-                          <img src="static/images/star.png" alt="" />
-                        </div>
-                        <div class="star">
-                          <img src="static/images/star.png" alt="" />
-                        </div>
-                        <div class="star">
-                          <img src="static/images/star.png" alt="" />
-                        </div>
-                        <div class="star">
-                          <img src="static/images/star.png" alt="" />
-                        </div>
-                      </div>
                     </div>
                   </div>
                 </div>

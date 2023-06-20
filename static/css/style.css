@@ -362,11 +362,12 @@ a {
 .project-card {
   width: 400px;
   background: var(--text-titles-color);
+  padding-bottom: 50px;
   /* padding: 15px; */
   /* border-radius: 15px; */
   /* transition: box-shadow 0.1s, transform; */
-  padding-top: 10px;
   margin: 0px 0px;
+  border-radius: 30px;
 }
 .project-card:hover {
   /* box-shadow: 0px 0px 50px rgb(255, 255, 255); */
@@ -377,13 +378,12 @@ a {
   font-size: 40px;
   font-weight: 700;
   text-align: center;
+  margin-bottom: 0px;
 }
 .card-title-container {
   display: block;
   position: relative;
-}
-.card-title-container h3 {
-  margin-bottom: 0px;
+  padding: 20px 0px 15px 0px;
 }
 
 #my-projects {
@@ -396,17 +396,18 @@ a {
   /* font-size: 18px; */
   text-align: center;
   margin: 30px 20px;
+  padding: 0px 50px;
   line-height: 150%;
 }
 .complexity {
   background-color: #163b23;
   padding: 10px 20px;
-  margin-bottom: 50px;
-  margin-top: 40px;
+  margin-bottom: 30px;
+
   /* position: relative; */
   font-family: "Roboto", sans-serif;
   font-weight: 600;
-  border-radius: 0px 0px 30px 30px;
+  /* border-radius: 0px 0px 30px 30px; */
 }
 
 .star {
@@ -421,6 +422,7 @@ a {
 }
 .complexity-content {
   display: flex;
+  justify-content: center;
 }
 .star-container {
   display: flex;
@@ -455,7 +457,7 @@ a {
   height: 100%;
 }
 .tech-stack-container {
-  margin: 0px 5px;
+  margin: 0px 5px 3px 0px;
 }
 
 .horizontal-line {
@@ -472,7 +474,4 @@ a {
 #list-aboutme li {
   list-style-type: none;
   padding: 5px 0px;
-}
-.project-card {
-  border-radius: 30px;
 }
