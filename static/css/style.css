@@ -1,3 +1,5 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Raleway&display=swap");
 :root {
   --background-body-color: #0b1107;
   --background-navbar-color: #caebd6;
@@ -7,18 +9,22 @@
   --text-titles-color: #d6972d;
   --normal-text-font-size: 20px;
   --normal-text-font-family: "Inter";
+  --navbar-height: 90px;
 }
 
 body {
   background-color: var(--background-body-color);
   margin: 0px;
   color: white;
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
-  padding: 10px 20vw 10px 20vw;
+  padding: 10px 10vw 10px 10vw;
   background-color: var(--background-navbar-color);
   color: var(--text-navbar-color);
   font-size: var(--normal-text-font-size);
@@ -28,6 +34,7 @@ nav {
   left: 0;
   width: 100vw;
   box-sizing: border-box;
+  height: var(--navbar-height);
   z-index: 10000;
 }
 
@@ -49,9 +56,11 @@ footer img {
 #title {
   font-weight: 800;
   font-style: normal;
+  display: flex;
+  align-items: center;
 }
 main {
-  width: 60vw;
+  width: 80vw;
   margin: auto;
   /* padding-top: 70px; */
 }
@@ -77,12 +86,14 @@ main {
 #about-me {
   /* margin-top: 70px; */
   /* padding-top: 70px; */
+  display: flex;
+  gap: 80px;
 }
 #about-me-image {
   padding: 0px;
 }
 .section-description {
-  width: 58%;
+  width: 50%;
 }
 .section-image img {
   object-fit: fill;
@@ -91,16 +102,19 @@ main {
 }
 h1 {
   color: var(--text-titles-color);
-  font-family: "Outfit", sans-serif;
+  font-family: "Monserrat", sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
   font-size: 70px;
   margin-top: 0px;
   margin-bottom: 15px;
 }
 h2 {
   color: var(--text-titles-color);
-  font-family: "Outfit", sans-serif;
+  font-family: "Monserrat", sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
   font-size: 32px;
-  font-weight: 600;
 }
 .timeline * {
   box-sizing: border-box;
@@ -111,7 +125,7 @@ section {
   /* margin-bottom: 50px; */
   display: flex;
   justify-content: space-between;
-  padding-top: 70px;
+  padding-top: calc(var(--navbar-height) + 50px);
 }
 
 .timeline {
@@ -160,8 +174,8 @@ section {
   background: var(--background-experience-text-box-color);
   position: relative;
   border-radius: 6px;
-  font-size: 15px;
-  font-family: "Roboto", sans-serif;
+  /* font-size: 15px; */
+  /* font-family: "Roboto", sans-serif; */
   color: white;
 }
 .left-container {
